@@ -155,7 +155,7 @@ This project is actively maintained and welcomes collaboration. Please open issu
 If you're looking for a tailor-made diagnostic web platform, patient booking system, or other custom solutions — feel free to reach out!
 
 📧 Email: [ishusahu593@gmail.com](mailto:ishusahu593@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/ishu-sahu-1981b4182/](https://www.linkedin.com/in/ishu-sahu-1981b4182/)
+🔗 LinkedIn: [https://www.linkedin.com/Ishusahu/](https://www.linkedin.com/in/ishu-sahu-1981b4182/)
 
 > 🚀 Existing code for this repository is private.  
 > If you’d like access or want to collaborate, don’t hesitate to contact me.
