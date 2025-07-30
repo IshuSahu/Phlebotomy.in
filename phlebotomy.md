@@ -1,6 +1,8 @@
 # 🧪 Phlebotomy.in – Feature Overview & UI Showcase
 
-Welcome to the official documentation and design showcase of the **Phlebotomy Diagnostic Platform** – a modern solution for home sample collection and test booking.
+Phlebotomy.in is a full-featured diagnostic lab booking platform built for home sample collection and test package management. Designed to serve **patients**, **phlebotomists**, and **admins**, it offers a seamless experience from test discovery to report delivery.
+
+This platform is ideal for diagnostics labs looking to digitize their home collection process, optimize phlebotomist workflows, and offer users a modern online experience for medical test bookings.
 
 ## 📎 Live Preview
 
