@@ -19,6 +19,27 @@ This platform is ideal for diagnostics labs looking to digitize their home colle
 ![Mobile View](./assets/mobile_view.jpeg)
 
 ---
+## 🧰 Tech Stack (High-Level)
+
+### 🖥️ Frontend (User & Phlebo Panels)
+- **React.js** – Component-based UI library
+- **Vite** – Lightning-fast build and dev environment
+- **Tailwind CSS** – Utility-first styling
+- **React Router** – Declarative routing
+- **Redux Toolkit** – State management
+- **React Hook Form + Zod** – Form handling and validation
+- **Axios** – API communication
+- **Toast & Notification Libraries** – User feedback and alerts
+
+### 🖥️ Backend (Server)
+- **Node.js** – JavaScript runtime
+- **Express.js** – Web server framework
+- **MongoDB + Mongoose** – NoSQL database with schema modeling
+- **JWT + Bcrypt** – Authentication and secure password hashing
+- **Multer + Excel/CSV Tools** – File handling and bulk uploads
+- **Dotenv + CORS** – Configuration and secure API access
+
+---
 
 # 🧩 Feature Documentation by Role
 
@@ -159,4 +180,5 @@ If you're looking for a tailor-made diagnostic web platform, patient booking sys
 
 > 🚀 Existing code for this repository is private.  
 > If you’d like access or want to collaborate, don’t hesitate to contact me.
+
 
